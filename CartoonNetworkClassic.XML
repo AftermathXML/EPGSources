@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240105">
-<channel id="cartoonnetworkclassics"><display-name>Cartoon Network Classic</display-name><icon src="https://cdn.vaughnsoft.net/profile/1734311677/cnclassic.jpg"/><url>https://vaughn.live</url></channel>
+<channel id="cartoonnetworkclassics"><display-name>CNClassic</display-name><icon src="https://cdn.vaughnsoft.net/profile/1734311677/cnclassic.jpg"/><url>https://vaughn.live</url></channel>
 <programme start="20241229100000 +0000" stop="20241229103000 +0000" channel="CartonNClassic"><title lang="en">Samurai X</title></programme>
 <programme start="20241229103000 +0000" stop="20241229110000 +0000" channel="CartonNClassic"><title lang="en">MAR</title></programme>  
 <programme start="20241229110000 +0000" stop="20241229113000 +0000" channel="CartonNClassic"><title lang="en">Deltora Quest</title></programme>
