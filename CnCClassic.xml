@@ -1,56 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20250119">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20250120">
 <channel id="Cartoon Classic Network.us"><display-name>Cartoon Classic Network</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>https://vaughn.live/cnclassic</url></channel>
-<programme start="20250119100000 +0000" stop="20250119103000 +0000" channel="CartonNClassic"><title lang="en">Samurai X</title></programme>
-<programme start="20250119103000 +0000" stop="20250119110000 +0000" channel="CartonNClassic"><title lang="en">MAR</title></programme>  
-<programme start="20250119110000 +0000" stop="20250119113000 +0000" channel="CartonNClassic"><title lang="en">Deltora Quest</title></programme>
-<programme start="20250119113000 +0000" stop="20250119120000 +0000" channel="CartonNClassic"><title lang="en">Mew Mew Power</title></programme> 
-<programme start="20250119120000 +0000" stop="20250119123000 +0000" channel="CartonNClassic"><title lang="en">Duck Dodgers</title></programme>
-<programme start="20250119123000 +0000" stop="20250119130000 +0000" channel="CartonNClassic"><title lang="en">Street Fighter</title></programme>  
-<programme start="20250119130000 +0000" stop="20250119133000 +0000" channel="CartonNClassic"><title lang="en">Extreme Ghostbusters</title></programme>
-<programme start="20250119133000 +0000" stop="20250119140000 +0000" channel="CartonNClassic"><title lang="en">Men in Black</title></programme> 
-<programme start="20250119140000 +0000" stop="20250119143000 +0000" channel="CartonNClassic"><title lang="en">Rescue Heroes</title></programme>
-<programme start="20250119143000 +0000" stop="20250119150000 +0000" channel="CartonNClassic"><title lang="en">C.O.P.S</title></programme>  
-<programme start="20250119150000 +0000" stop="20250119153000 +0000" channel="CartonNClassic"><title lang="en">Sonic the Hedgehog</title></programme>
-<programme start="20250119153000 +0000" stop="20250119160000 +0000" channel="CartonNClassic"><title lang="en">Spider Rider</title></programme> 
-<programme start="20250119160000 +0000" stop="20250119163000 +0000" channel="CartonNClassic"><title lang="en">Dexter's Lab</title></programme>
-<programme start="20250119163000 +0000" stop="20250119170000 +0000" channel="CartonNClassic"><title lang="en">Digimon</title></programme>  
-<programme start="20250119170000 +0000" stop="20250119173000 +0000" channel="CartonNClassic"><title lang="en">Kappa Mikey</title></programme>
-<programme start="20250119173000 +0000" stop="20250119180000 +0000" channel="CartonNClassic"><title lang="en">Jackie Chan's Adventure</title></programme> 
-<programme start="20250119180000 +0000" stop="20250119183000 +0000" channel="CartonNClassic"><title lang="en">Reboot</title></programme>
-<programme start="20250119183000 +0000" stop="20250119190000 +0000" channel="CartonNClassic"><title lang="en">He-Man</title></programme>  
-<programme start="20250119190000 +0000" stop="20250119193000 +0000" channel="CartonNClassic"><title lang="en">Thunder Cats</title></programme>
-<programme start="20250119193000 +0000" stop="20250119200000 +0000" channel="CartonNClassic"><title lang="en">G.I Joe</title></programme> 
-<programme start="20250119200000 +0000" stop="20250119203000 +0000" channel="CartonNClassic"><title lang="en">Robotech</title></programme>
-<programme start="20250119203000 +0000" stop="20250119210000 +0000" channel="CartonNClassic"><title lang="en">Sailor Moon</title></programme>  
-<programme start="20250119210000 +0000" stop="20250119213000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball Z</title></programme>
-<programme start="20250119213000 +0000" stop="20250119220000 +0000" channel="CartonNClassic"><title lang="en">Gundam Wing</title></programme> 
-<programme start="20250119220000 +0000" stop="20250119223000 +0000" channel="CartonNClassic"><title lang="en">Tenchi Universe</title></programme>
-<programme start="20250119223000 +0000" stop="20250119230000 +0000" channel="CartonNClassic"><title lang="en">Dot Hack Sign</title></programme>  
-<programme start="20250119230000 +0000" stop="20250119233000 +0000" channel="CartonNClassic"><title lang="en">Voltron</title></programme>
-<programme start="20250119233000 +0000" stop="20250120000000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball GT</title></programme> 
-<programme start="20250120000000 +0000" stop="20250120003000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball</title></programme> 
-<programme start="20250120003000 +0000" stop="20250120010000 +0000" channel="CartonNClassic"><title lang="en">Naruto</title></programme> 
-<programme start="20250120010000 +0000" stop="20250120013000 +0000" channel="CartonNClassic"><title lang="en">Fire Force</title></programme> 
-<programme start="20250120013000 +0000" stop="20250120020000 +0000" channel="CartonNClassic"><title lang="en">One Piece</title></programme> 
-<programme start="20250120020000 +0000" stop="20250120023000 +0000" channel="CartonNClassic"><title lang="en">Nerima</title></programme> 
-<programme start="20250120023000 +0000" stop="20250120030000 +0000" channel="CartonNClassic"><title lang="en">Is This a Zombie</title></programme> 
-<programme start="20250120030000 +0000" stop="20250120033000 +0000" channel="CartonNClassic"><title lang="en">That Time I got Reincarnated as a Slime</title></programme> 
-<programme start="20250120033000 +0000" stop="20250120040000 +0000" channel="CartonNClassic"><title lang="en">Twin Tails</title></programme> 
-<programme start="20250120040000 +0000" stop="20250120043000 +0000" channel="CartonNClassic"><title lang="en">KONOSUBA</title></programme>
-<programme start="20250120043000 +0000" stop="20250120050000 +0000" channel="CartonNClassic"><title lang="en">Yamada</title></programme>  
-<programme start="20250120050000 +0000" stop="20250120053000 +0000" channel="CartonNClassic"><title lang="en">Girls Brabo</title></programme>
-<programme start="20250120053000 +0000" stop="20250120060000 +0000" channel="CartonNClassic"><title lang="en">Gushing over Magical Girls</title></programme> 
-<programme start="20250120060000 +0000" stop="20250120063000 +0000" channel="CartonNClassic"><title lang="en">100 Girlfriends</title></programme>
-<programme start="20250120063000 +0000" stop="20250120070000 +0000" channel="CartonNClassic"><title lang="en">Date A Live</title></programme>  
-<programme start="20250120070000 +0000" stop="20250120073000 +0000" channel="CartonNClassic"><title lang="en">Fruits Basket</title></programme>
-<programme start="20250120073000 +0000" stop="20250120080000 +0000" channel="CartonNClassic"><title lang="en">Intinal D</title></programme> 
-<programme start="20250120080000 +0000" stop="20250120083000 +0000" channel="CartonNClassic"><title lang="en">Polar Bear Cafe</title></programme>
-<programme start="20250120083000 +0000" stop="20250120090000 +0000" channel="CartonNClassic"><title lang="en">Lucky Star</title></programme>  
-<programme start="20250120090000 +0000" stop="20250120093000 +0000" channel="CartonNClassic"><title lang="en">Fairy Tail</title></programme>
-<programme start="20250120093000 +0000" stop="20250120100000 +0000" channel="CartonNClassic"><title lang="en">Naruto Shippuden</title></programme> 
-<programme start="20250120100000 +0000" stop="20250120103000 +0000" channel="CartonNClassic"><title lang="en">Class of 300</title></programme>
-<programme start="20250120103000 +0000" stop="20250120110000 +0000" channel="CartonNClassic"><title lang="en">Johnny Test</title></programme>  
-<programme start="20250120110000 +0000" stop="20250120113000 +0000" channel="CartonNClassic"><title lang="en">Misadventures of Flapjack</title></programme>
 <programme start="20250120113000 +0000" stop="20250120120000 +0000" channel="CartonNClassic"><title lang="en">Yu-Gi-Oh</title></programme> 
 <programme start="20250120120000 +0000" stop="20250120123000 +0000" channel="CartonNClassic"><title lang="en">Adventure Time</title></programme>
 <programme start="20250120123000 +0000" stop="20250120130000 +0000" channel="CartonNClassic"><title lang="en">Camp Lazlo</title></programme>  
