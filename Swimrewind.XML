@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250810">`
-<channel id="Retro Adult Swim"><display-name>Nickpicks</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>doesnotmatter</url></channel>
+<channel id="Swim Rewind"><display-name>Swim Rewind</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>doesnotmatter</url></channel>
 
 
     <programme start="20251109040000 +0000" stop="20251109042500 +0000" channel="Retro Adult Swim"><title lang="en">Squidbillies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
