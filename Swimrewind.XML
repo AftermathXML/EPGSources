@@ -49,7 +49,6 @@
     <programme start="20251116224700 +0000" stop="20251116231100 +0000" channel="Retro Adult Swim"><title lang="en">Gungrave</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251116231100 +0000" stop="20251116233500 +0000" channel="Retro Adult Swim"><title lang="en">Dandadan</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251116233500 +0000" stop="20251117000000 +0000" channel="Retro Adult Swim"><title lang="en">Common Side Effects</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>   
-   
     <programme start="20251117000000 +0000" stop="20251117002500 +0000" channel="Retro Adult Swim"><title lang="en">Code Geass</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251117002500 +0000" stop="20251117005000 +0000" channel="Retro Adult Swim"><title lang="en">Code Geass</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251117005000 +0000" stop="20251117011500 +0000" channel="Retro Adult Swim"><title lang="en">Sunday Movie</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
@@ -57,6 +56,8 @@
     <programme start="20251117013500 +0000" stop="20251117020500 +0000" channel="Retro Adult Swim"><title lang="en">Sunday Movie</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251117020500 +0000" stop="20251117023000 +0000" channel="Retro Adult Swim"><title lang="en">Sunday Movie</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>  
     <programme start="20251117023000 +0000" stop="20251117040000 +0000" channel="Retro Adult Swim"><title lang="en">Retro Adult Swin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>    
+
+
     <programme start="20251117040000 +0000" stop="20251117042500 +0000" channel="Retro Adult Swim"><title lang="en">Squidbillies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251117042500 +0000" stop="20251117045000 +0000" channel="Retro Adult Swim"><title lang="en">Robot Chicken</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251117045000 +0000" stop="20251117051500 +0000" channel="Retro Adult Swim"><title lang="en">The Venture Bros</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
@@ -105,14 +106,14 @@
     <programme start="20251117224700 +0000" stop="20251117231100 +0000" channel="Retro Adult Swim"><title lang="en">Mushi-Shi</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251117231100 +0000" stop="20251117233500 +0000" channel="Retro Adult Swim"><title lang="en">Ghost Hunt</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251117233500 +0000" stop="20251118000000 +0000" channel="Retro Adult Swim"><title lang="en">Durarara</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme> 
-
     <programme start="20251118000000 +0000" stop="20251118002500 +0000" channel="Retro Adult Swim"><title lang="en">Tokyo Ghoul</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251118002500 +0000" stop="20251118005000 +0000" channel="Retro Adult Swim"><title lang="en">Black Clover</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251118005000 +0000" stop="20251118011500 +0000" channel="Retro Adult Swim"><title lang="en">Casshern Sins</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251118011500 +0000" stop="20251118013500 +0000" channel="Retro Adult Swim"><title lang="en">Code Geass</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251118013500 +0000" stop="20251118020500 +0000" channel="Retro Adult Swim"><title lang="en">GITS: Stand Alone Complex</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251118020500 +0000" stop="20251118023000 +0000" channel="Retro Adult Swim"><title lang="en">Inuyasha</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>  
-    <programme start="20251118023000 +0000" stop="20251118040000 +0000" channel="Retro Adult Swim"><title lang="en">Retro Adult Swin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>    
+    <programme start="20251118023000 +0000" stop="20251118040000 +0000" channel="Retro Adult Swim"><title lang="en">Retro Adult Swin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>  
+
     <programme start="20251118040000 +0000" stop="20251118042500 +0000" channel="Retro Adult Swim"><title lang="en">Superjail</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251118042500 +0000" stop="20251118045000 +0000" channel="Retro Adult Swim"><title lang="en">Smiling Friends</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251118045000 +0000" stop="20251118051500 +0000" channel="Retro Adult Swim"><title lang="en">Mr. Pickles</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
@@ -161,14 +162,14 @@
     <programme start="20251118224700 +0000" stop="20251118231100 +0000" channel="Retro Adult Swim"><title lang="en">Witch Hunter Robin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251118231100 +0000" stop="20251118233500 +0000" channel="Retro Adult Swim"><title lang="en">Akame ga Kill</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251118233500 +0000" stop="20251119000000 +0000" channel="Retro Adult Swim"><title lang="en">Baccano</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>  
-
     <programme start="20251119000000 +0000" stop="20251119002500 +0000" channel="Retro Adult Swim"><title lang="en">S-Cry-Ed</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251119002500 +0000" stop="20251119005000 +0000" channel="Retro Adult Swim"><title lang="en">Darker Than Black</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251119005000 +0000" stop="20251119011500 +0000" channel="Retro Adult Swim"><title lang="en">Samurai 7</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251119011500 +0000" stop="20251119013500 +0000" channel="Retro Adult Swim"><title lang="en">Gungrave</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251119013500 +0000" stop="20251119020500 +0000" channel="Retro Adult Swim"><title lang="en">GITS: Stand Alone Complex</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251119020500 +0000" stop="20251119023000 +0000" channel="Retro Adult Swim"><title lang="en">Inuyasha</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>  
-    <programme start="20251119023000 +0000" stop="20251119040000 +0000" channel="Retro Adult Swim"><title lang="en">Retro Adult Swin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>     
+    <programme start="20251119023000 +0000" stop="20251119040000 +0000" channel="Retro Adult Swim"><title lang="en">Retro Adult Swin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>   
+
     <programme start="20251119040000 +0000" stop="20251119042500 +0000" channel="Retro Adult Swim"><title lang="en">Squidbillies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251119042500 +0000" stop="20251119045000 +0000" channel="Retro Adult Swim"><title lang="en">Robot Chicken</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251119045000 +0000" stop="20251119051500 +0000" channel="Retro Adult Swim"><title lang="en">The Venture Bros</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
@@ -217,14 +218,14 @@
     <programme start="20251119224700 +0000" stop="20251119231100 +0000" channel="Retro Adult Swim"><title lang="en">Mushi-Shi</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251119231100 +0000" stop="20251119233500 +0000" channel="Retro Adult Swim"><title lang="en">Ghost Hunt</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>  
     <programme start="20251119233500 +0000" stop="20251120000000 +0000" channel="Retro Adult Swim"><title lang="en">Durarara</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>   
-
     <programme start="20251120000000 +0000" stop="20251120002500 +0000" channel="Retro Adult Swim"><title lang="en">Tokyo Ghoul</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251120002500 +0000" stop="20251120005000 +0000" channel="Retro Adult Swim"><title lang="en">Black Clover</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251120005000 +0000" stop="20251120011500 +0000" channel="Retro Adult Swim"><title lang="en">Casshern Sins</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251120011500 +0000" stop="20251120013500 +0000" channel="Retro Adult Swim"><title lang="en">Code Geass</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251120013500 +0000" stop="20251120020500 +0000" channel="Retro Adult Swim"><title lang="en">GITS: Stand Alone Complex</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251120020500 +0000" stop="20251120023000 +0000" channel="Retro Adult Swim"><title lang="en">Inuyasha</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>  
-    <programme start="20251120023000 +0000" stop="20251120040000 +0000" channel="Retro Adult Swim"><title lang="en">Retro Adult Swin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>       
+    <programme start="20251120023000 +0000" stop="20251120040000 +0000" channel="Retro Adult Swim"><title lang="en">Retro Adult Swin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>   
+
     <programme start="20251120040000 +0000" stop="20251120042500 +0000" channel="Retro Adult Swim"><title lang="en">Superjail</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251120042500 +0000" stop="20251120045000 +0000" channel="Retro Adult Swim"><title lang="en">Smiling Friends</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251120045000 +0000" stop="20251120051500 +0000" channel="Retro Adult Swim"><title lang="en">Mr. Pickles</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
@@ -273,14 +274,15 @@
     <programme start="20251120224700 +0000" stop="20251120231100 +0000" channel="Retro Adult Swim"><title lang="en">Witch Hunter Robin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251120231100 +0000" stop="20251120233500 +0000" channel="Retro Adult Swim"><title lang="en">Akame ga Kill</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251120233500 +0000" stop="20251121000000 +0000" channel="Retro Adult Swim"><title lang="en">Baccano</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>   
-
     <programme start="20251121000000 +0000" stop="20251121002500 +0000" channel="Retro Adult Swim"><title lang="en">S-Cry-Ed</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251121002500 +0000" stop="20251121005000 +0000" channel="Retro Adult Swim"><title lang="en">Darker Than Black</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251121005000 +0000" stop="20251121011500 +0000" channel="Retro Adult Swim"><title lang="en">Samurai 7</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251121011500 +0000" stop="20251121013500 +0000" channel="Retro Adult Swim"><title lang="en">Gungrave</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251121013500 +0000" stop="20251121020500 +0000" channel="Retro Adult Swim"><title lang="en">GITS: Stand Alone Complex</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251121020500 +0000" stop="20251121023000 +0000" channel="Retro Adult Swim"><title lang="en">Inuyasha</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>  
-    <programme start="20251121023000 +0000" stop="20251121040000 +0000" channel="Retro Adult Swim"><title lang="en">Retro Adult Swin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>     
+    <programme start="20251121023000 +0000" stop="20251121040000 +0000" channel="Retro Adult Swim"><title lang="en">Retro Adult Swin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>    
+
+
     <programme start="20251121040000 +0000" stop="20251121042500 +0000" channel="Retro Adult Swim"><title lang="en">Squidbillies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251121042500 +0000" stop="20251121045000 +0000" channel="Retro Adult Swim"><title lang="en">Robot Chicken</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251121045000 +0000" stop="20251121051500 +0000" channel="Retro Adult Swim"><title lang="en">The Venture Bros</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
@@ -328,7 +330,6 @@
     <programme start="20251121222000 +0000" stop="20251121224700 +0000" channel="Retro Adult Swim"><title lang="en">Bleach</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251121224700 +0000" stop="20251121231100 +0000" channel="Retro Adult Swim"><title lang="en">Megalo Box</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251121231100 +0000" stop="20251121233500 +0000" channel="Retro Adult Swim"><title lang="en">Deadman Wonderland</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
-
     <programme start="20251121233500 +0000" stop="20251122000000 +0000" channel="Retro Adult Swim"><title lang="en">Paranoia Agent</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>   
     <programme start="20251122000000 +0000" stop="20251122002500 +0000" channel="Retro Adult Swim"><title lang="en">Hellsing</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251122002500 +0000" stop="20251122005000 +0000" channel="Retro Adult Swim"><title lang="en">Black Clover</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
@@ -337,6 +338,8 @@
     <programme start="20251122013500 +0000" stop="20251122020500 +0000" channel="Retro Adult Swim"><title lang="en">Lazarus</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
     <programme start="20251122020500 +0000" stop="20251122023000 +0000" channel="Retro Adult Swim"><title lang="en">Common Side Effects</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>  
     <programme start="20251122023000 +0000" stop="20251122040000 +0000" channel="Retro Adult Swim"><title lang="en">Retro Adult Swin</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>   
+
+
     <programme start="20251122040000 +0000" stop="20251122042500 +0000" channel="Retro Adult Swim"><title lang="en">Robot Chicken</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251122042500 +0000" stop="20251122045000 +0000" channel="Retro Adult Swim"><title lang="en">Robot Chicken</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
     <programme start="20251122045000 +0000" stop="20251122051500 +0000" channel="Retro Adult Swim"><title lang="en">Digimon Frontier</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
