@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20251111">
 <channel id="ToonamiAftermathEast.us"><display-name>Toonami Aftermath EST</display-name><url>https://toonamiaftermath.com</url></channel>
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%SUNDAY%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 <programme start="20251116040100 +0000" stop="20251116050610 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Interstella 5555</title><icon src="https://i.imgur.com/ODBlBOU.gif"/></programme>
 <programme start="20251116050610 +0000" stop="20251116072424 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Harry Potter 5 And The Order Of The Phoenix</title></programme>
 <programme start="20251116072633 +0000" stop="20251116083939 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Little Shop Of Horrors</title></programme>
@@ -54,8 +52,6 @@
 <programme start="20251117031025 +0000" stop="20251117033349 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Samurai Champloo</title><sub-title lang="en">Cosmic Collisions</sub-title><icon src="https://i.imgur.com/bENqNkY.gif"/></programme>
 <programme start="20251117033635 +0000" stop="20251117040000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Samurai Champloo</title><sub-title lang="en">Baseball Blues</sub-title><icon src="https://i.imgur.com/bENqNkY.gif"/></programme>
 <programme start="20251117040100 +0000" stop="20251117060004 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Howl&apos;s Moving Castle</title><icon src="https://i.imgur.com/O0NKiBg.jpg"/></programme>
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MONDAY%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 <programme start="20251117060004 +0000" stop="20251117075331 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Memento</title></programme>
 <programme start="20251117075540 +0000" stop="20251117084835 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Maniac</title></programme>
