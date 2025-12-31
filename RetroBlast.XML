@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20250810">`
+<channel id="RetroBlast"><display-name>RetroBlast</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>doesnotmatter</url></channel>
+
 <programme start="20251228040000 +0000" stop="20251228041500 +0000" channel="RetroBlast"><title lang="en">Aqua Teen Hunger Force</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20251228041500 +0000" stop="20251228043000 +0000" channel="RetroBlast"><title lang="en">Tim & Eric</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20251228043000 +0000" stop="20251228050000 +0000" channel="RetroBlast"><title lang="en">Bleach</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
