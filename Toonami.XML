@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260103">
 <channel id="ToonamiAftermathEast.us"><display-name>Toonami Aftermath EST</display-name><url>https://toonamiaftermath.com</url></channel>
 
-<programme start="20260104050610 +0000" stop="20260104071048 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Star Wars IV</title></programme>
-<programme start="20260104071257 +0000" stop="20260104083533 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Planet of Dinosaurs</title></programme>
-<programme start="20260104083553 +0000" stop="20260104100755 +0000" channel="ToonamiAftermathEast.us"><title lang="en">MST3K - S08E14 - Riding With Death</title></programme>
+<programme start="20260104050610 +0000" stop="20260104071048 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax</title></programme>
+<programme start="20260104071257 +0000" stop="20260104083533 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax</title></programme>
+<programme start="20260104083553 +0000" stop="20260104100755 +0000" channel="ToonamiAftermathEast.us"><title lang="en">MST3K</title></programme>
 <programme start="20260104110000 +0000" stop="20260104111052 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Where Crawls the Lizard</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260104111235 +0000" stop="20260104112327 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Electro, the Human Lightning Bolt</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260104112449 +0000" stop="20260104113542 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">The Menace of Mysterio Part 1</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
