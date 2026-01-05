@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250810">`
 <channel id="Bellpepper"><display-name>Bellpepper</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>doesnotmatter</url></channel>
 
-<programme start="20260104040000 +0000" stop="20260105040000 +0000" channel="Bellpepper"><title lang="en">Sunday Animes!</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20260104040000 +0000" stop="20260105040000 +0000" channel="Bellpepper"><title lang="en">Sunday Movies!</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 
 
 <programme start="20260105040000 +0000" stop="20260105044500 +0000" channel="Bellpepper"><title lang="en">Movies</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
@@ -164,7 +164,7 @@
 <programme start="20260110031500 +0000" stop="20260110040000 +0000" channel="Bellpepper"><title lang="en">Claymore</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 
 
-<programme start="20260110040000 +0000" stop="20260111040000 +0000" channel="Bellpepper"><title lang="en">Sunday Animes!</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20260110040000 +0000" stop="20260111040000 +0000" channel="Bellpepper"><title lang="en">Saturday Movies!</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 
 
 
