@@ -4,7 +4,6 @@
 
 <programme start="20260104040000 +0000" stop="20260105040000 +0000" channel="Bellpepper"><title lang="en">Sunday Movies!</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 
-
 <programme start="20260105040000 +0000" stop="20260105044500 +0000" channel="Bellpepper"><title lang="en">Movies</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260105044500 +0000" stop="20260105060000 +0000" channel="Bellpepper"><title lang="en">Movies</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260105060000 +0000" stop="20260105064500 +0000" channel="Bellpepper"><title lang="en">Movies</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
@@ -29,8 +28,6 @@
 <programme start="20260106014500 +0000" stop="20260106023000 +0000" channel="Bellpepper"><title lang="en">Berserk</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260106023000 +0000" stop="20260106031500 +0000" channel="Bellpepper"><title lang="en">Sengoku</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260106031500 +0000" stop="20260106040000 +0000" channel="Bellpepper"><title lang="en">Claymore</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-
-
 
 <programme start="20260106040000 +0000" stop="20260106044500 +0000" channel="Bellpepper"><title lang="en">The Boondocks</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260106044500 +0000" stop="20260106060000 +0000" channel="Bellpepper"><title lang="en">Lupin the III</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
@@ -82,7 +79,6 @@
 <programme start="20260108023000 +0000" stop="20260108031500 +0000" channel="Bellpepper"><title lang="en">Sengoku</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260108031500 +0000" stop="20260108040000 +0000" channel="Bellpepper"><title lang="en">Claymore</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 
-
 <programme start="20260108040000 +0000" stop="20260108044500 +0000" channel="Bellpepper"><title lang="en">The Boondocks</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260108044500 +0000" stop="20260108060000 +0000" channel="Bellpepper"><title lang="en">Lupin the III</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260108060000 +0000" stop="20260108064500 +0000" channel="Bellpepper"><title lang="en">Shin Chan</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
@@ -107,9 +103,6 @@
 <programme start="20260109014500 +0000" stop="20260109023000 +0000" channel="Bellpepper"><title lang="en">Berserk</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260109023000 +0000" stop="20260109031500 +0000" channel="Bellpepper"><title lang="en">Sengoku</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260109031500 +0000" stop="20260109040000 +0000" channel="Bellpepper"><title lang="en">Claymore</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-
-
-
 
 <programme start="20260109040000 +0000" stop="20260109044500 +0000" channel="Bellpepper"><title lang="en">The Boondocks</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260109044500 +0000" stop="20260109060000 +0000" channel="Bellpepper"><title lang="en">Lupin the III</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
@@ -136,11 +129,6 @@
 <programme start="20260110023000 +0000" stop="20260110031500 +0000" channel="Bellpepper"><title lang="en">Sengoku</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260110031500 +0000" stop="20260110040000 +0000" channel="Bellpepper"><title lang="en">Claymore</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 
-
 <programme start="20260110040000 +0000" stop="20260111040000 +0000" channel="Bellpepper"><title lang="en">Saturday Movies!</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-
-
-
-
 
 </tv>
