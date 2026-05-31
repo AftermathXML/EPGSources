@@ -2,7 +2,7 @@
 <channel id="EEL"><display-name>After Swim</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>doesnotmatter</url></channel>
 
 
- <programme start="20260531000000 +0000" stop="20260531002500 +0000" channel="AfterSwim"><title lang="en">Cartoon</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
+<programme start="20260531000000 +0000" stop="20260531002500 +0000" channel="AfterSwim"><title lang="en">Cartoon</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
 <programme start="20260531002500 +0000" stop="20260531005000 +0000" channel="AfterSwim"><title lang="en">Cartoon</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
 <programme start="20260531005000 +0000" stop="20260531011500 +0000" channel="AfterSwim"><title lang="en">Cartoon</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
 <programme start="20260531011500 +0000" stop="20260531014000 +0000" channel="AfterSwim"><title lang="en">Cartoon</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
@@ -422,3 +422,5 @@
 <programme start="20260606225500 +0000" stop="20260606232000 +0000" channel="AfterSwim"><title lang="en">Aqua Teen Hunger Force</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260606232000 +0000" stop="20260606234500 +0000" channel="AfterSwim"><title lang="en">Robot Chicken</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260606234500 +0000" stop="20260607000000 +0000" channel="AfterSwim"><title lang="en">MDE: World Peace</title><sub-title lang="en">Monday</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
+
+</tv>
