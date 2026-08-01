@@ -2,11 +2,11 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250810">`
 <channel id="BPB"><display-name>BPB</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>doesnotmatter</url></channel>
 
-<programme start="20260802000000 +0000" stop="20260802004500 +0000" channel="BPB"><title lang="en">Sunday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20260802004500 +0000" stop="20260802020000 +0000" channel="BPB"><title lang="en">Sunday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20260802020000 +0000" stop="20260802024500 +0000" channel="BPB"><title lang="en">Sunday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20260802024500 +0000" stop="20260802031500 +0000" channel="BPB"><title lang="en">Sunday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20260802031500 +0000" stop="20260802040000 +0000" channel="BPB"><title lang="en">Sunday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+<programme start="20260802000000 +0000" stop="20260802004500 +0000" channel="BPB"><title lang="en">Saturday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+<programme start="20260802004500 +0000" stop="20260802020000 +0000" channel="BPB"><title lang="en">Saturday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+<programme start="20260802020000 +0000" stop="20260802024500 +0000" channel="BPB"><title lang="en">Saturday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+<programme start="20260802024500 +0000" stop="20260802031500 +0000" channel="BPB"><title lang="en">Saturday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+<programme start="20260802031500 +0000" stop="20260802040000 +0000" channel="BPB"><title lang="en">Saturday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
 <programme start="20260802040000 +0000" stop="20260802044500 +0000" channel="BPB"><title lang="en">Sunday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20260802044500 +0000" stop="20260802053000 +0000" channel="BPB"><title lang="en">Sunday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
 <programme start="20260802053000 +0000" stop="20260802061500 +0000" channel="BPB"><title lang="en">Sunday Movies</title><sub-title lang="en">Sunday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
